@@ -24,7 +24,7 @@ int main() {
             cout << "Celsius: " << (temp - 32) * 5/9 << endl;
             cout << "Kelvin: " << (temp - 32) * 5/9 + 273.15 << endl;
             break;
-        case 3:
+        case 3: 
             cout << "Celsius: " << temp - 273.15 << endl;
             cout << "Fahrenheit: " << (temp - 273.15) * 9/5 + 32 << endl;
             break;
